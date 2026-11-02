@@ -1,0 +1,25 @@
+
+{
+  "id": "/MoneyTrack/",
+  "name": "MoneyTrack",
+  "short_name": "MoneyTrack",
+  "description": "Aplikasi pencatat keuangan pribadi",
+  "start_url": "/MoneyTrack/",
+  "scope": "/MoneyTrack/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#171923",
+  "background_color": "#171923",
+  "icons": [
+    {
+      "src": "/MoneyTrack/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/MoneyTrack/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
